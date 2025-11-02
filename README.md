@@ -1,2 +1,2 @@
 # hippoabstraction
-The hippoabstraction repository contains all code for the first part of my MSc thesis project.
+The hippoabstraction repository contains all code for my MSc thesis project.
